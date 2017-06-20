@@ -1,3 +1,6 @@
+.bg {
+	background: url(../../.deploy_git/css/images/banner.jpg);
+}
 body {
   width: 100%;
 }
